@@ -1,0 +1,6 @@
+search_tweets_api:
+    account_type: premium
+    bearer_token: AAAAAAAAAAAAAAAAAAAAAN4BWQEAAAAAAd1HPpPevv81fooEpD9zyH5HtQc%3DruPIXlYxM5zjYfWB89TPIZQvwL2uxJIMCujkefVsHC2op4nz8s
+    # consumer_key: ZEuzfFRQ7vA5Lc71WRZKI04tO
+    # consumer_secret: rgp47rZsEiayEuzid5obErFWPDa3RGocwfQqzo91amsrJbG5r9
+    endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/kidfloenv.json
